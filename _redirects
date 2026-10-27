@@ -1,0 +1,2 @@
+# Cloudflare Pages serves a real file first. Unknown paths open the app shell.
+/*    /index.html   200
