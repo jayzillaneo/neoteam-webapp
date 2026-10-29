@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "build": "9",
+  "label": "NEO build 9",
+  "tag": "v0.1.0-build9",
+  "releasedAt": "2026-10-29",
+  "mac": "https://github.com/jayzillaneo/neo-app/releases/download/v0.1.0-build9/NEO_0.1.0_universal.dmg",
+  "windows": "https://github.com/jayzillaneo/neo-app/releases/download/v0.1.0-build9/NEO_0.1.0_x64-setup.exe",
+  "windowsMsi": "https://github.com/jayzillaneo/neo-app/releases/download/v0.1.0-build9/NEO_0.1.0_x64_en-US.msi",
+  "android": "https://github.com/jayzillaneo/neo-app/releases/download/v0.1.0-build9/NEO_0.1.0_debug.apk"
+}
